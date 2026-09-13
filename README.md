@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-Freeware_%7C_Ad--Free-orange?style=for-the-badge)](https://play.google.com/store/apps/details?id=com.oloplayer.olo_player)
 [![Website](https://img.shields.io/badge/Official_Site-DownloadKart-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.downloadkart.com/apps/olo-player-all-format-video)
 
-![Olo Player Banner](banner.jpg)
+![Olo Player Banner](banner.png)
 
 **Olo Player** is a next-generation, hardware-accelerated HD and 4K video player engineered for Android. Built with a modern, bloat-free design, it combines studio-grade playback smoothness with a pioneering **Dual Subtitle** rendering engine, all without intrusive pop-up ads.
 
